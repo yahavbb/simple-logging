@@ -53,4 +53,3 @@ A Python script for configuring and running a logging system that sends log mess
 ---
 
 Feel free to contribute, report issues, or make suggestions to improve this logger. Happy logging!
-```
